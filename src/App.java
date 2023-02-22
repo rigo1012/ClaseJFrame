@@ -25,7 +25,7 @@ public class App extends JFrame {
         pestañas.addTab("Vista 2", pantalla2);
 
         add(pestañas);
-        pestañas.setBounds(0,0,280,300);
+        pestañas.setBounds(0,0,300,300);
     }
     public static void main (String[] args){
         App app = new App();
