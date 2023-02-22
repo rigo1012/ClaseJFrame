@@ -12,7 +12,7 @@ public class App extends JFrame {
         // Pneles
 
         JPanel pantalla1= new JPanel();
-        //Carateristicas
+        //Carateristicas de la pantalla
         pantalla1.setBackground(Color.lightGray);
 
         JPanel pantalla2= new JPanel();
