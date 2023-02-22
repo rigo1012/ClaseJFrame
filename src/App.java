@@ -7,7 +7,6 @@ public class App extends JFrame {
         setLayout(null);
         setSize(500,500);
         setVisible(true);
-        //pestañas
 
         JTabbedPane pestañas = new JTabbedPane();
         // Pneles
